@@ -1,8 +1,7 @@
 {
-  "min_version": null,
-  "max_version": null,
-  "location": null,
-  "lang": "lua",
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-lua",
-  "semver": false
+  "semver": false,
+  "lang": "lua",
+  "location": null,
+  "parser_version": "10fe0054734eec83049514ea2e718b2a56acd0c9"
 }
